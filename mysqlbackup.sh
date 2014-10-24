@@ -9,7 +9,7 @@
 # YOUREMAIL:  The email address you want to send the email to if any part of
 # this script fails. Multiple email addresses are supported if separated
 # by a space.
-YOUREMAIL="email@email.com
+YOUREMAIL="email@email.com"
 # SERVERNAME:  How you want your server's name to appear in the email in the
 # event that the database is corrupt.
 SERVERNAME=Server
